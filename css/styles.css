@@ -1,0 +1,19 @@
+h1{
+  font-family: courier;
+}
+
+body{
+  color: black;
+  background-color: #047734;
+  text-align: center;
+  font-family: impact;  
+}
+
+ul{
+  text-align: left;
+}
+
+picture{
+  float: center;
+  width: 55%;
+}
